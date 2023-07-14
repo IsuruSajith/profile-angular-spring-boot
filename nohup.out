@@ -1,0 +1,18 @@
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2023-07-14 11:54:57,786 [   7929]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 18:DefaultDispatcher-worker-7 | RdCoroutineHost overridden 
+2023-07-14 11:55:00,849 [  10992]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.openapi.fileEditor.impl.FileEditorProviderManagerImpl$FileEditorProviderManagerState
+JCEF(55:01:865): initialized stderr logger, severity=LOGSEVERITY_DISABLE
+2023-07-14 11:55:04,327 [  14470]   WARN - #c.i.o.a.i.ActionUpdater - 1145 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-07-14 11:55:05,033 [  15176]   WARN - #c.i.o.a.i.ActionUpdater - 754 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2023-07-14 11:55:05,230 [  15373]   WARN - #c.i.o.a.i.ActionUpdater - 901 ms to grab EDT for ToolWindowHeader$2#getChildren@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-07-14 11:55:11,781 [  21924]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.ide.util.TipsUsageManager$State
+2023-07-14 11:55:13,991 [  24134]   WARN - #org.editorconfig.language.schema.parser.EditorConfigJsonSchemaParser - Found illegal descriptor: {}
+2023-07-14 11:55:13,992 [  24135]   WARN - #org.editorconfig.language.schema.parser.EditorConfigJsonSchemaParser - Found illegal descriptor: {}
+2023-07-14 11:55:14,016 [  24159]   WARN - #org.editorconfig.language.schema.parser.EditorConfigJsonSchemaParser - Found illegal descriptor: {}
+2023-07-14 11:55:14,020 [  24163]   WARN - #org.editorconfig.language.schema.parser.EditorConfigJsonSchemaParser - Found illegal descriptor: {}
+2023-07-14 11:55:14,023 [  24166]   WARN - #org.editorconfig.language.schema.parser.EditorConfigJsonSchemaParser - Found illegal descriptor: {}
+2023-07-14 11:55:14,023 [  24166]   WARN - #org.editorconfig.language.schema.parser.EditorConfigJsonSchemaParser - Found illegal descriptor: {}
+2023-07-14 11:55:14,024 [  24167]   WARN - #org.editorconfig.language.schema.parser.EditorConfigJsonSchemaParser - Found illegal descriptor: {}
+2023-07-14 11:55:14,024 [  24167]   WARN - #org.editorconfig.language.schema.parser.EditorConfigJsonSchemaParser - Found illegal descriptor: {}
+2023-07-14 11:55:57,080 [  67223]   WARN - #c.i.o.a.i.ActionUpdater - 1021 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
