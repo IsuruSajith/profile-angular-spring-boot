@@ -16,3 +16,7 @@ JCEF(55:01:865): initialized stderr logger, severity=LOGSEVERITY_DISABLE
 2023-07-14 11:55:14,024 [  24167]   WARN - #org.editorconfig.language.schema.parser.EditorConfigJsonSchemaParser - Found illegal descriptor: {}
 2023-07-14 11:55:14,024 [  24167]   WARN - #org.editorconfig.language.schema.parser.EditorConfigJsonSchemaParser - Found illegal descriptor: {}
 2023-07-14 11:55:57,080 [  67223]   WARN - #c.i.o.a.i.ActionUpdater - 1021 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2023-07-14 11:57:24,346 [ 154489] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 11 >= 11
+2023-07-14 11:57:24,347 [ 154490] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 11 >= 11
+2023-07-14 12:00:09,493 [ 319636]   WARN - #c.i.u.x.Binding - no accessors for org.jetbrains.idea.perforce.perforce.ConnectionId
+2023-07-14 12:04:35,227 [ 585370]   WARN - #git4idea.annotate.GitAnnotationProvider - Git annotations are empty for file /home/isuru/Documents/dep 10/phase-3/0.profile/profile-angular-spring-boot/src/app/app.component.scss in revision c4c2ef72054508f8286d743d56cb49db2102140c
